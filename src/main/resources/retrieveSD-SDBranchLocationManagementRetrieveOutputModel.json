@@ -1,0 +1,39 @@
+{
+  "branchLocationManagementRetrieveActionTaskRecord" : {},
+  "branchLocationManagementOfferedService" : {
+    "branchLocationManagementServiceReference" : "776158",
+    "branchLocationManagementServiceRecord" : {
+      "branchLocationManagementServiceType" : "branchLocationManagementServiceType",
+      "branchLocationManagementServiceDescription" : "branchLocationManagementServiceDescription",
+      "branchLocationManagementServicePoliciesandGuidelines" : {
+        "branchLocationManagementServicePricingandTerms" : "branchLocationManagementServicePricingandTerms",
+        "branchLocationManagementServiceEligibility" : "branchLocationManagementServiceEligibility",
+        "branchLocationManagementServiceIntendedUses" : "branchLocationManagementServiceIntendedUses"
+      },
+      "branchLocationManagementServiceSchedule" : "branchLocationManagementServiceSchedule",
+      "branchLocationManagementServiceVersion" : "branchLocationManagementServiceVersion"
+    }
+  },
+  "branchLocationManagementRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "branchLocationManagementPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "branchLocationManagementActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "branchLocationManagementRetrieveActionTaskReference" : "SRATR795161",
+  "branchLocationManagementRetrieveActionResponse" : "branchLocationManagementRetrieveActionResponse"
+}

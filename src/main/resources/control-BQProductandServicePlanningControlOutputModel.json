@@ -1,0 +1,15 @@
+{
+  "productandServicePlanningControlActionTaskReference" : "PASPCATR769447",
+  "staffandLocationPlanningStaffandLocationPlanningServiceType" : "staffandLocationPlanningStaffandLocationPlanningServiceType",
+  "staffandLocationPlanning" : "staffandLocationPlanning",
+  "productandServicePlanningControlActionTaskRecord" : {},
+  "staffandLocationPlanningBusinessUnitEmployeeReference" : "SALPBUR759645",
+  "productandServicePlanningControlActionResponse" : "productandServicePlanningControlActionResponse",
+  "staffandLocationPlanningStaffandLocationPlanningServiceDescription" : "staffandLocationPlanningStaffandLocationPlanningServiceDescription",
+  "staffandLocationPlanningWorkSchedule" : "staffandLocationPlanningWorkSchedule",
+  "productandServicePlanningInstanceStatus" : "productandServicePlanningInstanceStatus",
+  "staffandLocationPlanningPreconditions" : "staffandLocationPlanningPreconditions",
+  "staffandLocationPlanningStaffandLocationPlanningServiceInputsandOuputs" : "staffandLocationPlanningStaffandLocationPlanningServiceInputsandOuputs",
+  "staffandLocationPlanningPostconditions" : "staffandLocationPlanningPostconditions",
+  "staffandLocationPlanningStaffandLocationPlanningServiceWorkProduct" : "staffandLocationPlanningStaffandLocationPlanningServiceWorkProduct"
+}

@@ -1,0 +1,15 @@
+{
+  "productandServicePlanningCaptureActionTaskRecord" : {},
+  "staffandLocationPlanningStaffandLocationPlanningServiceType" : "staffandLocationPlanningStaffandLocationPlanningServiceType",
+  "staffandLocationPlanning" : "staffandLocationPlanning",
+  "staffandLocationPlanningBusinessUnitEmployeeReference" : "SALPBUR756508",
+  "staffandLocationPlanningStaffandLocationPlanningServiceDescription" : "staffandLocationPlanningStaffandLocationPlanningServiceDescription",
+  "staffandLocationPlanningWorkSchedule" : "staffandLocationPlanningWorkSchedule",
+  "productandServicePlanningCaptureRecordReference" : "PASPCRR731944",
+  "staffandLocationPlanningPreconditions" : "staffandLocationPlanningPreconditions",
+  "staffandLocationPlanningStaffandLocationPlanningServiceInputsandOuputs" : "staffandLocationPlanningStaffandLocationPlanningServiceInputsandOuputs",
+  "captureResponseRecord" : {},
+  "staffandLocationPlanningPostconditions" : "staffandLocationPlanningPostconditions",
+  "staffandLocationPlanningStaffandLocationPlanningServiceWorkProduct" : "staffandLocationPlanningStaffandLocationPlanningServiceWorkProduct",
+  "productandServicePlanningCaptureActionTaskReference" : "PASPCATR732785"
+}

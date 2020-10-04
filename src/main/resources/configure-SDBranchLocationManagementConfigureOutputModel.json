@@ -1,0 +1,21 @@
+{
+  "branchLocationManagementConfigurationActionTaskRecord" : {},
+  "branchLocationManagementConfigurationActionTaskReference" : "SCATR765419",
+  "branchLocationManagementServiceConfigurationRecord" : {
+    "branchLocationManagementServiceConfigurationSettingDescription" : "branchLocationManagementServiceConfigurationSettingDescription",
+    "branchLocationManagementServiceConfigurationSetup" : {
+      "branchLocationManagementServiceConfigurationParameter" : "branchLocationManagementServiceConfigurationParameter"
+    },
+    "branchLocationManagementServiceStatus" : "branchLocationManagementServiceStatus",
+    "branchLocationManagementServiceAgreement" : {
+      "branchLocationManagementServiceUserReference" : "733696",
+      "branchLocationManagementServiceAgreementTermsandConditions" : "branchLocationManagementServiceAgreementTermsandConditions",
+      "branchLocationManagementServiceAgreementReference" : "721156"
+    },
+    "branchLocationManagementServiceSubscription" : {
+      "branchLocationManagementServiceSubscriberReference" : "756221",
+      "branchLocationManagementServiceSubscriberAccessProfile" : "branchLocationManagementServiceSubscriberAccessProfile"
+    }
+  },
+  "branchLocationManagementServicingSessionStatus" : "branchLocationManagementServicingSessionStatus"
+}

@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "troubleshootingServiceWorkProduct" : "troubleshootingServiceWorkProduct",
+  "staffandLocationPlanningRequestActionTaskRecord" : {},
+  "troubleshootingServiceType" : "troubleshootingServiceType",
+  "requestResponseRecord" : {},
+  "troubleshootingServiceDescription" : "troubleshootingServiceDescription",
+  "troubleshootingWorkSchedule" : "troubleshootingWorkSchedule",
+  "staffandLocationPlanningRequestActionTaskReference" : "SALPRATR773677",
+  "staffandLocationPlanningRequestRecordReference" : "SALPRRR788963",
+  "troubleshootingServiceInputsandOuputs" : "troubleshootingServiceInputsandOuputs",
+  "troubleshootingPreconditions" : "troubleshootingPreconditions",
+  "troubleshootingPostconditions" : "troubleshootingPostconditions",
+  "troubleshootingServiceName" : "troubleshootingServiceName",
+  "troubleshootingBusinessUnitEmployeeReference" : "TBUR725619"
+}

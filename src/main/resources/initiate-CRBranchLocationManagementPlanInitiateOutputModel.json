@@ -1,0 +1,9 @@
+{
+  "branchLocationManagementPlanPlan" : "branchLocationManagementPlanPlan",
+  "branchLocationManagementPlanInitiateActionRecord" : {},
+  "branchLocationManagementPlanInstanceReference" : "BLMPIR737812",
+  "branchLocationManagementPlanInstanceStatus" : "branchLocationManagementPlanInstanceStatus",
+  "branchLocationManagementPlanAssignment" : "branchLocationManagementPlanAssignment",
+  "branchLocationManagementPlanInitiateActionReference" : "BLMPIAR729675",
+  "branchLocationManagementPlanBudgetType" : "branchLocationManagementPlanBudgetType"
+}

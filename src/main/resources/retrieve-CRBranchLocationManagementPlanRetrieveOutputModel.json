@@ -1,0 +1,21 @@
+{
+  "branchLocationManagementPlanInstanceAnalysis" : {
+    "branchLocationManagementPlanInstanceAnalysisReportType" : "branchLocationManagementPlanInstanceAnalysisReportType",
+    "branchLocationManagementPlanInstanceAnalysisData" : "branchLocationManagementPlanInstanceAnalysisData",
+    "branchLocationManagementPlanInstanceAnalysisReport" : {}
+  },
+  "branchLocationManagementPlanRetrieveActionTaskRecord" : {},
+  "branchLocationManagementPlanPlan" : "branchLocationManagementPlanPlan",
+  "branchLocationManagementPlanRetrieveActionResponse" : "branchLocationManagementPlanRetrieveActionResponse",
+  "branchLocationManagementPlanDescription" : "branchLocationManagementPlanDescription",
+  "branchLocationManagementPlanReference" : "BLMP<AR701376",
+  "branchLocationManagementPlanAssignment" : "branchLocationManagementPlanAssignment",
+  "branchLocationManagementPlanInstanceReportRecord" : {
+    "branchLocationManagementPlanInstanceReportType" : "branchLocationManagementPlanInstanceReportType",
+    "branchLocationManagementPlanInstanceReportData" : "branchLocationManagementPlanInstanceReportData",
+    "branchLocationManagementPlanInstanceReport" : {}
+  },
+  "branchLocationManagementPlanType" : "branchLocationManagementPlanType",
+  "branchLocationManagementPlanBudgetType" : "branchLocationManagementPlanBudgetType",
+  "branchLocationManagementPlanRetrieveActionTaskReference" : "BLMPRATR720428"
+}

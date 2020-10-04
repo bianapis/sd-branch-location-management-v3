@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementActivityAnalysis;
+import org.bian.dto.SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementPerformanceAnalysis;
+import org.bian.dto.SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordControlRecordPortfolioAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecord
+ */
+public class SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecord   {
+  private SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementActivityAnalysis branchLocationManagementActivityAnalysis = null;
+
+  private SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementPerformanceAnalysis branchLocationManagementPerformanceAnalysis = null;
+
+  private SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get branchLocationManagementActivityAnalysis
+   * @return branchLocationManagementActivityAnalysis
+  **/
+
+  public SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementActivityAnalysis getBranchLocationManagementActivityAnalysis() {
+    return branchLocationManagementActivityAnalysis;
+  }
+
+  public void setBranchLocationManagementActivityAnalysis(SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementActivityAnalysis branchLocationManagementActivityAnalysis) {
+    this.branchLocationManagementActivityAnalysis = branchLocationManagementActivityAnalysis;
+  }
+
+
+  /**
+   * Get branchLocationManagementPerformanceAnalysis
+   * @return branchLocationManagementPerformanceAnalysis
+  **/
+
+  public SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementPerformanceAnalysis getBranchLocationManagementPerformanceAnalysis() {
+    return branchLocationManagementPerformanceAnalysis;
+  }
+
+  public void setBranchLocationManagementPerformanceAnalysis(SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordBranchLocationManagementPerformanceAnalysis branchLocationManagementPerformanceAnalysis) {
+    this.branchLocationManagementPerformanceAnalysis = branchLocationManagementPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDBranchLocationManagementRetrieveInputModelBranchLocationManagementRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

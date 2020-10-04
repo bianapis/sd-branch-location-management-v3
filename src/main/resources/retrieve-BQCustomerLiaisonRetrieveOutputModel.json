@@ -1,0 +1,27 @@
+{
+  "productandServicePlanningProductandServicePlanningServiceName" : "productandServicePlanningProductandServicePlanningServiceName",
+  "productandServicePlanningPostconditions" : "productandServicePlanningPostconditions",
+  "customerLiaisonRetrieveActionResponse" : "customerLiaisonRetrieveActionResponse",
+  "productandServicePlanningPreconditions" : "productandServicePlanningPreconditions",
+  "productandServicePlanningProductandServicePlanningServiceInputsandOuputs" : "productandServicePlanningProductandServicePlanningServiceInputsandOuputs",
+  "customerLiaisonRetrieveActionTaskRecord" : {},
+  "productandServicePlanningProductandServicePlanningServiceType" : "productandServicePlanningProductandServicePlanningServiceType",
+  "productandServicePlanningBusinessUnitEmployeeReference" : "PASPBUR733101",
+  "productandServicePlanningProductandServicePlanningServiceDescription" : "productandServicePlanningProductandServicePlanningServiceDescription",
+  "customerLiaisonInstanceAnalysis" : {
+    "customerLiaisonInstanceAnalysisReport" : {},
+    "customerLiaisonInstanceAnalysisReportType" : "customerLiaisonInstanceAnalysisReportType",
+    "customerLiaisonInstanceAnalysisParameters" : "customerLiaisonInstanceAnalysisParameters",
+    "customerLiaisonInstanceAnalysisRecord" : {}
+  },
+  "productandServicePlanningProductandServicePlanningServiceWorkProduct" : "productandServicePlanningProductandServicePlanningServiceWorkProduct",
+  "productandServicePlanning" : "productandServicePlanning",
+  "productandServicePlanningWorkSchedule" : "productandServicePlanningWorkSchedule",
+  "customerLiaisonRetrieveActionTaskReference" : "CLRATR703110",
+  "customerLiaisonInstanceReport" : {
+    "customerLiaisonInstanceReportType" : "customerLiaisonInstanceReportType",
+    "customerLiaisonInstanceReportRecord" : {},
+    "customerLiaisonInstanceReport" : {},
+    "customerLiaisonInstanceReportParameters" : "customerLiaisonInstanceReportParameters"
+  }
+}

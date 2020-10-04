@@ -1,0 +1,26 @@
+{
+  "customerLiaisonBusinessUnitEmployeeReference" : "CLBUR767071",
+  "troubleshootingInstanceReport" : {
+    "troubleshootingInstanceReportParameters" : "troubleshootingInstanceReportParameters",
+    "troubleshootingInstanceReportType" : "troubleshootingInstanceReportType",
+    "troubleshootingInstanceReport" : {},
+    "troubleshootingInstanceReportRecord" : {}
+  },
+  "customerLiaisonCustomerLiaisonServiceDescription" : "customerLiaisonCustomerLiaisonServiceDescription",
+  "customerLiaisonPostconditions" : "customerLiaisonPostconditions",
+  "customerLiaisonCustomerLiaisonServiceType" : "customerLiaisonCustomerLiaisonServiceType",
+  "troubleshootingRetrieveActionTaskRecord" : {},
+  "customerLiaisonCustomerLiaisonServiceInputsandOuputs" : "customerLiaisonCustomerLiaisonServiceInputsandOuputs",
+  "troubleshootingInstanceAnalysis" : {
+    "troubleshootingInstanceAnalysisParameters" : "troubleshootingInstanceAnalysisParameters",
+    "troubleshootingInstanceAnalysisReportType" : "troubleshootingInstanceAnalysisReportType",
+    "troubleshootingInstanceAnalysisReport" : {},
+    "troubleshootingInstanceAnalysisRecord" : {}
+  },
+  "customerLiaisonPreconditions" : "customerLiaisonPreconditions",
+  "customerLiaisonCustomerLiaisonServiceWorkProduct" : "customerLiaisonCustomerLiaisonServiceWorkProduct",
+  "troubleshootingRetrieveActionTaskReference" : "TRATR776037",
+  "troubleshootingRetrieveActionResponse" : "troubleshootingRetrieveActionResponse",
+  "customerLiaisonWorkSchedule" : "customerLiaisonWorkSchedule",
+  "customerLiaisonCustomerLiaisonServiceName" : "customerLiaisonCustomerLiaisonServiceName"
+}

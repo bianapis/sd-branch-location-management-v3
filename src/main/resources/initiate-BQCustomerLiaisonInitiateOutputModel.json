@@ -1,0 +1,15 @@
+{
+  "customerLiaisonBusinessUnitEmployeeReference" : "CLBUR727661",
+  "customerLiaisonCustomerLiaisonServiceDescription" : "customerLiaisonCustomerLiaisonServiceDescription",
+  "customerLiaisonPostconditions" : "customerLiaisonPostconditions",
+  "customerLiaisonInitiateActionReference" : "CLIAR743667",
+  "customerLiaisonCustomerLiaisonServiceType" : "customerLiaisonCustomerLiaisonServiceType",
+  "customerLiaisonCustomerLiaisonServiceInputsandOuputs" : "customerLiaisonCustomerLiaisonServiceInputsandOuputs",
+  "customerLiaisonInitiateActionRecord" : {},
+  "customerLiaisonInstanceReference" : "CLIR743883",
+  "customerLiaisonInstanceStatus" : "customerLiaisonInstanceStatus",
+  "customerLiaisonPreconditions" : "customerLiaisonPreconditions",
+  "customerLiaisonCustomerLiaisonServiceWorkProduct" : "customerLiaisonCustomerLiaisonServiceWorkProduct",
+  "customerLiaisonWorkSchedule" : "customerLiaisonWorkSchedule",
+  "customerLiaisonCustomerLiaisonServiceName" : "customerLiaisonCustomerLiaisonServiceName"
+}

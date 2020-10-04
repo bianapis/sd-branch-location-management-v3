@@ -1,0 +1,27 @@
+{
+  "staffandLocationPlanningRetrieveActionTaskRecord" : {},
+  "businessService" : "businessService",
+  "troubleshootingServiceWorkProduct" : "troubleshootingServiceWorkProduct",
+  "troubleshootingServiceType" : "troubleshootingServiceType",
+  "staffandLocationPlanningInstanceAnalysis" : {
+    "staffandLocationPlanningInstanceAnalysisRecord" : {},
+    "staffandLocationPlanningInstanceAnalysisReportType" : "staffandLocationPlanningInstanceAnalysisReportType",
+    "staffandLocationPlanningInstanceAnalysisParameters" : "staffandLocationPlanningInstanceAnalysisParameters",
+    "staffandLocationPlanningInstanceAnalysisReport" : {}
+  },
+  "staffandLocationPlanningInstanceReport" : {
+    "staffandLocationPlanningInstanceReportRecord" : {},
+    "staffandLocationPlanningInstanceReportType" : "staffandLocationPlanningInstanceReportType",
+    "staffandLocationPlanningInstanceReportParameters" : "staffandLocationPlanningInstanceReportParameters",
+    "staffandLocationPlanningInstanceReport" : {}
+  },
+  "staffandLocationPlanningRetrieveActionResponse" : "staffandLocationPlanningRetrieveActionResponse",
+  "troubleshootingServiceDescription" : "troubleshootingServiceDescription",
+  "troubleshootingWorkSchedule" : "troubleshootingWorkSchedule",
+  "troubleshootingServiceInputsandOuputs" : "troubleshootingServiceInputsandOuputs",
+  "staffandLocationPlanningRetrieveActionTaskReference" : "SALPRATR741864",
+  "troubleshootingPreconditions" : "troubleshootingPreconditions",
+  "troubleshootingPostconditions" : "troubleshootingPostconditions",
+  "troubleshootingServiceName" : "troubleshootingServiceName",
+  "troubleshootingBusinessUnitEmployeeReference" : "TBUR711536"
+}

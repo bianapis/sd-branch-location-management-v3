@@ -1,0 +1,11 @@
+{
+  "branchLocationManagementPlanPlan" : "branchLocationManagementPlanPlan",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "branchLocationManagementPlanAssignment" : "branchLocationManagementPlanAssignment",
+  "branchLocationManagementPlanGrantActionTaskRecord" : {},
+  "branchLocationManagementPlanBudgetType" : "branchLocationManagementPlanBudgetType",
+  "branchLocationManagementPlanGrantActionTaskReference" : "BLMPGATR752906",
+  "grantRequestRecordReference" : "GRRR742422"
+}

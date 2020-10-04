@@ -1,0 +1,26 @@
+{
+  "staffandLocationPlanningStaffandLocationPlanningServiceType" : "staffandLocationPlanningStaffandLocationPlanningServiceType",
+  "staffandLocationPlanning" : "staffandLocationPlanning",
+  "productandServicePlanningInstanceAnalysis" : {
+    "productandServicePlanningInstanceAnalysisParameters" : "productandServicePlanningInstanceAnalysisParameters",
+    "productandServicePlanningInstanceAnalysisReport" : {},
+    "productandServicePlanningInstanceAnalysisReportType" : "productandServicePlanningInstanceAnalysisReportType",
+    "productandServicePlanningInstanceAnalysisRecord" : {}
+  },
+  "staffandLocationPlanningBusinessUnitEmployeeReference" : "SALPBUR799279",
+  "staffandLocationPlanningStaffandLocationPlanningServiceDescription" : "staffandLocationPlanningStaffandLocationPlanningServiceDescription",
+  "staffandLocationPlanningWorkSchedule" : "staffandLocationPlanningWorkSchedule",
+  "productandServicePlanningInstanceReport" : {
+    "productandServicePlanningInstanceReport" : {},
+    "productandServicePlanningInstanceReportRecord" : {},
+    "productandServicePlanningInstanceReportParameters" : "productandServicePlanningInstanceReportParameters",
+    "productandServicePlanningInstanceReportType" : "productandServicePlanningInstanceReportType"
+  },
+  "productandServicePlanningRetrieveActionTaskRecord" : {},
+  "staffandLocationPlanningPreconditions" : "staffandLocationPlanningPreconditions",
+  "staffandLocationPlanningStaffandLocationPlanningServiceInputsandOuputs" : "staffandLocationPlanningStaffandLocationPlanningServiceInputsandOuputs",
+  "productandServicePlanningRetrieveActionResponse" : "productandServicePlanningRetrieveActionResponse",
+  "productandServicePlanningRetrieveActionTaskReference" : "PASPRATR747177",
+  "staffandLocationPlanningPostconditions" : "staffandLocationPlanningPostconditions",
+  "staffandLocationPlanningStaffandLocationPlanningServiceWorkProduct" : "staffandLocationPlanningStaffandLocationPlanningServiceWorkProduct"
+}

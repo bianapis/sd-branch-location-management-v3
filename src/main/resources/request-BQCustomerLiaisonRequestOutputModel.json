@@ -1,0 +1,16 @@
+{
+  "productandServicePlanningProductandServicePlanningServiceName" : "productandServicePlanningProductandServicePlanningServiceName",
+  "productandServicePlanningPostconditions" : "productandServicePlanningPostconditions",
+  "productandServicePlanningPreconditions" : "productandServicePlanningPreconditions",
+  "customerLiaisonRequestActionTaskReference" : "CLRATR769987",
+  "customerLiaisonRequestRecordReference" : "CLRRR747259",
+  "customerLiaisonRequestActionTaskRecord" : {},
+  "productandServicePlanningProductandServicePlanningServiceInputsandOuputs" : "productandServicePlanningProductandServicePlanningServiceInputsandOuputs",
+  "productandServicePlanningProductandServicePlanningServiceType" : "productandServicePlanningProductandServicePlanningServiceType",
+  "productandServicePlanningBusinessUnitEmployeeReference" : "PASPBUR785425",
+  "productandServicePlanningProductandServicePlanningServiceDescription" : "productandServicePlanningProductandServicePlanningServiceDescription",
+  "requestResponseRecord" : {},
+  "productandServicePlanningProductandServicePlanningServiceWorkProduct" : "productandServicePlanningProductandServicePlanningServiceWorkProduct",
+  "productandServicePlanning" : "productandServicePlanning",
+  "productandServicePlanningWorkSchedule" : "productandServicePlanningWorkSchedule"
+}
